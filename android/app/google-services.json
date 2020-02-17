@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "37215863172",
+    "firebase_url": "https://crossroads-events-5229c.firebaseio.com",
+    "project_id": "crossroads-events-5229c",
+    "storage_bucket": "crossroads-events-5229c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37215863172:android:5d2b1bac1993c0e67f9dd1",
+        "android_client_info": {
+          "package_name": "com.vanina.crossroads_events"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37215863172-c390k8d41vo7cj7h4hb6egm2emqsih9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanina.crossroads_events",
+            "certificate_hash": "7ccc4c31dc123cbc881cac18cf13b867404c4677"
+          }
+        },
+        {
+          "client_id": "37215863172-b5n09t8abvcdjahddrtcbne661c0e2uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrNKSu1s48Nb5RVcCt5I0cB9jWdX8fWZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37215863172-b5n09t8abvcdjahddrtcbne661c0e2uk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "37215863172-4v1dft12cofuf9tt15s00iu32pudcccl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vanina.crossroadsEvents"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
